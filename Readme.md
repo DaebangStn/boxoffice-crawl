@@ -23,4 +23,4 @@ source .venv/bin/activate
 <pre><code>python main.py
 </code></pre>
 
-#### The output filename is boxoffice.csv
+The output filename is boxoffice.csv
